@@ -1,0 +1,28 @@
+_repo: David-DunneA-Romance-of-the-Middle-West_29128
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maniates, Belle Kanaris
+    alias: Maniates, Belle K.
+    gutenberg_agent_id: '32494'
+    url: http://www.gutenberg.org/2009/agents/32494
+description: ''
+gutenberg_issued: '2009-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29128'
+  lccn: '12015144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle West -- Fiction'
+- !lcc 'PS'
+title: 'David Dunne
+
+  A Romance of the Middle West'
+url: http://www.gutenberg.org/ebooks/29128
